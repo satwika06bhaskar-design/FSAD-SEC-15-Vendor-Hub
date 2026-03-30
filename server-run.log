@@ -1,0 +1,5 @@
+
+> marketplace-server@1.0.0 start
+> node src/server.js
+
+Marketplace API running on port 5000
